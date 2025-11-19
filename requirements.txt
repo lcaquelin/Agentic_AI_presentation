@@ -6,3 +6,5 @@ langchain-community
 ddgs
 pydantic
 pypdf2
+regex
+

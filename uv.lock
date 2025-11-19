@@ -15,6 +15,7 @@ dependencies = [
     { name = "openai" },
     { name = "pydantic" },
     { name = "pypdf2" },
+    { name = "regex" },
 ]
 
 [package.metadata]
@@ -27,6 +28,7 @@ requires-dist = [
     { name = "openai", specifier = ">=2.8.1" },
     { name = "pydantic", specifier = ">=2.12.4" },
     { name = "pypdf2", specifier = ">=3.0.1" },
+    { name = "regex", specifier = ">=2025.11.3" },
 ]
 
 [[package]]
