@@ -1,0 +1,8 @@
+langchain 
+langgraph 
+openai 
+langchain-openai 
+langchain-community 
+ddgs
+pydantic
+pypdf2
